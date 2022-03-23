@@ -1,5 +1,5 @@
 # BIS-244-Group-A
-# Data: As daily Covid-19 cases increased the stock market had lower daily returns as a result.
+# Hypothesis: As daily Covid-19 cases increased the stock market had lower daily returns as a result.
 
 # NY Times Covid Data
 # https://github.com/nytimes/covid-19-data/blob/master/us.csv
