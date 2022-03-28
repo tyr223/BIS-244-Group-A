@@ -9,3 +9,4 @@
 
 # The visulaization we plan will be a scatterplot to show the relationship between daily cases and daily returns in the stock market and see how strong the correlation is.
 
+# Sounds good. TAA
